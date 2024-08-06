@@ -1,0 +1,21 @@
+
+<<------PACKAGES----->>
+
+
+connect-mongo :  Supports database connection, authentication, CRUD operations, and observations.
+
+bcrypt : Used for password hashing.
+
+cookie-parser :The cookie parser library can be used by the server-side code to extract this cookie data and make use of it in various ways.
+
+dotenv :  Improved security.
+
+express-ejs-layout : Help us with website templating which ultimately help us to avoid writing duplicated code as well as making our website
+                    /application easily maintainable. 
+
+methode-override : Lets you use HTTP verbs such as PUT or DELETE in places where the client doesn't support it.
+
+express-session : Allows the creation and storage of the session data used for authentication or user preferences
+
+
+Render : the process of executing JavaScript on a page to make changes in the page's structure or content
